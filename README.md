@@ -1,3 +1,4 @@
+# Red Team SSH Password Sprayer
 Red Team SSH Password Sprayer
 Simple script to spray a username and password over ssh against a subnet. It must be run with python3 and uses the paramiko library for ssh authentication.
 
