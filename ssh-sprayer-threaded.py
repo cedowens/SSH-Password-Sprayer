@@ -7,8 +7,6 @@ import threading
 from queue import Queue
 from optparse import OptionParser
 
-###test
-###print(len(sys.argv))
 if (len(sys.argv) < 9 and '-h' not in sys.argv):
     print("Usage: %s -u <username> -p <password> -t <threads>" % sys.argv[0])
     sys.exit(1)
