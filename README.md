@@ -8,5 +8,4 @@ It must be run with python3 and uses the paramiko library for ssh authentication
 first install the paramiko library:
 pip3 install paramiko
 
-usage:
-python3 ssh-sprayer-threaded.py
+Usage: python3 ssh-sprayer-threaded.py -u <username> -p <password> -t <threads> -r <range>
