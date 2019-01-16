@@ -8,7 +8,7 @@ from queue import Queue
 from optparse import OptionParser
 
 if (len(sys.argv) < 9 and '-h' not in sys.argv):
-    print("Usage: %s -u <username> -p <password> -t <threads>" % sys.argv[0])
+    print("Usage: %s -u <username> -p <password> -t <threads> -r <range>" % sys.argv[0])
     sys.exit(1)
 
 parser = OptionParser()
