@@ -15,4 +15,4 @@ Usages:
 1. python3 ssh-sprayer-threaded2.py 
 Enter the username/password combo you want to check for, the target IP range, and the number of threads when prompted.
 
-2. python3 sprayer-edited.py -u <username> -p <password> -r <IP Range> -t <# of threads>
+2. python3 sprayer-edited.py -u [username] -p [password] -r [IP Range] -t [# of threads]
