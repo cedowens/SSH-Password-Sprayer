@@ -1,4 +1,4 @@
-# Red Team Threaded SSH Password Sprayer
+# Threaded SSH Password Sprayer
 
 Simple python3 script to spray a username and password over ssh against a subnet. This repo currently includes two versions of the script:
 
